@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "MySQL",
+            "name": "Connection to Mysql Workbench",
+            "connectString": "mysql://root:julytwenty52001@localhost:3306/"
+        }
+    ]
+}
