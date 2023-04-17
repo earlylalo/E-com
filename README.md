@@ -1,6 +1,6 @@
 # Table of Contents
 
-Click the link to see the website live preview
+Open Link to New Tab
 [Furry Friends website](https://earlylalo.github.io/E-com/)
 
 
