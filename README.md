@@ -1,15 +1,16 @@
-# E-commerce FurryFriends project
+# Table of Contents
 
-This repository is for E-commerce website project called FurryFriends project.
-
-## Table of Contents
-
-- [Project Title](#project-title)
-- [Table of Contents](#table-of-contents)
+- [Project Title](#FurryFriends)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## FurryFriends
+
+This repository is for E-commerce website project called FurryFriends project.
+
+
 
 ## Installation
 
