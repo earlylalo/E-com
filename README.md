@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 
 Open Link to New Tab
 [Furry Friends website](https://earlylalo.github.io/E-com/)
