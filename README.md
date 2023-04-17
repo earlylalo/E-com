@@ -8,7 +8,7 @@ Open Link to New Tab
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#team)
-- [Layout](#layout)
+
 
 
 
@@ -77,9 +77,3 @@ Note:
 - Esma, Jaali Zhen
 - Tapit, Jan Paul
 
-
-
-
-## Layout
-
-![Landing Page](Design/e-com_LANDING-PAGE.png)
