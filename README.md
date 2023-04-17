@@ -72,7 +72,9 @@ A step-by-step guide on how to install and run this project on your local machin
 Note: 
   Commit messages should always have a valuable meaning to easily understand the changes commited in the repository.
   Always use the "git pull" command before editing, because it will download all the changes made by other teamates.
-
+  Commit the changes to the "Experimental" branch first, because the "main" branch serves as the original copy.
+  If the website is finished, then it is time to merge it to the "main" branch
+  
 - git pull
 - git commit -a -m "Message here.."
 - git push
