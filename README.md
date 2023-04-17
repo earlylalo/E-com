@@ -82,4 +82,4 @@ Note:
 
 ## Layout
 
-![My image](images/my-image.png)
+![Landing Page](Design/e-com_LANDING PAGE.png)
