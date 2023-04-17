@@ -1,5 +1,8 @@
 # Table of Contents
 
+Click the link below to see the website live preview
+[Furry Friends website](https://earlylalo.github.io/E-com/)
+
 
 - [Project Title](#FurryFriends)
 - [Installation](#installation)
@@ -7,7 +10,7 @@
 - [Contributing](#team)
 
 
-[Furry Friends website](https://earlylalo.github.io/E-com/)
+
 
 
 
