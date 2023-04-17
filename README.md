@@ -8,11 +8,7 @@ Open Link to New Tab
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#team)
-
-
-
-
-
+- [Layout](#layout)
 
 
 
@@ -40,13 +36,6 @@ This repository is for E-commerce website project called FurryFriends project. A
 
 
 
-
-
-
-
-
-
-
 ## Installation
 
 A step-by-step guide on how to install and run this project on your local machine
@@ -55,18 +44,6 @@ A step-by-step guide on how to install and run this project on your local machin
 - Open in the desired code editor.
 - Initialize in the local repository.
 - Use the gitbash "git pull" command to get the changes from remote repository and integrate it in the local repository.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -93,21 +70,6 @@ Note:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Team
 
 - Ala, Mark Gerald
@@ -116,3 +78,8 @@ Note:
 - Tapit, Jan Paul
 
 
+
+
+## Layout
+
+![My image](images/my-image.png)
